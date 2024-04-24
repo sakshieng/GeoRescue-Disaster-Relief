@@ -1,0 +1,29 @@
+/* index.css */
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .logo {
+    height: 31px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+  }
+  
+  .ant-menu-dark .ant-menu-item-selected {
+    background-color: #1890ff;
+  }
+  
+  .nav-menu {
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  @media (max-width: 576px) {
+    .nav-menu {
+      flex-direction: column;
+    }
+  }
+  

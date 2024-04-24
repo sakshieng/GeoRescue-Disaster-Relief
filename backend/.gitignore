@@ -1,0 +1,8 @@
+venv
+\virtual_env
+\confi.py
+*__pycache__
+screenshots
+*.json
+\model_files
+.env

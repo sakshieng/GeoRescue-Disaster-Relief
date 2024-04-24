@@ -1,0 +1,18 @@
+.carousel-container {
+    width: 80%;
+    margin: 0 auto;
+    overflow: hidden;
+  }
+  
+  .carousel-item {
+    width: 100%;
+    display: inline-block;
+    box-sizing: border-box;
+    padding: 0 8px;
+  }
+  
+  .carousel-item img {
+    width: 100%;
+    height: auto;
+  }
+  

@@ -1,0 +1,21 @@
+.hero-image1 {
+  max-width: 100%;
+  height: 80vh;
+  background-color: grey;
+}
+
+.hero-image img {
+  max-width: 100%;
+  height: 70vh;
+}
+
+.hero-tagline {
+  padding: 20px;
+  text-align: center;
+}
+
+.hero-image2 img {
+  margin: 30px;
+  max-width: 100%;
+  height: 70vh;
+}
