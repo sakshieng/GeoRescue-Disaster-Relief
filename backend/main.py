@@ -10,7 +10,7 @@ import joblib
 import pickle
 import numpy as np
 
-from external_apis.open_api_model import get_resposne
+# from external_apis.open_api_model import get_resposne
 # from external_apis.news import get_news
 from external_apis.twitter_scrapper import get_tweets
 from scrapers.social_buzz_scraper import scrape_social_buzz

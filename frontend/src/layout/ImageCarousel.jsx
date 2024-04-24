@@ -2,13 +2,13 @@ import React from 'react';
 import { Carousel, Typography } from 'antd';
 import './ImageCarousel.css';  // Import your CSS file
 
-import image2 from '../../../backend/screenshots/naturaldisaster_6.jpeg'
-import image3 from '../../../backend/screenshots/naturaldisaster_2.jpeg'
-import image5 from '../../../backend/screenshots/naturaldisaster_3.jpeg'
-import image4 from '../../../backend/screenshots/naturaldisaster_4.jpeg'
-import image6 from '../../../backend/screenshots/naturaldisaster_5.jpeg'
-import image7 from '../../../backend/screenshots/naturaldisaster_1.jpeg'
-import image8 from '../../../backend/screenshots/naturaldisaster_7.jpeg'
+import image2 from '../../../backend/screenshots/2.jpeg'
+import image3 from '../../../backend/screenshots/3.jpeg'
+import image5 from '../../../backend/screenshots/4.jpeg'
+import image4 from '../../../backend/screenshots/5.jpeg'
+import image6 from '../../../backend/screenshots/6.jpeg'
+import image7 from '../../../backend/screenshots/7.jpeg'
+import image8 from '../../../backend/screenshots/1.jpeg'
 
 const ImageCarousel = () => {
   const images = [
