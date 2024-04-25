@@ -34,10 +34,14 @@ Watch our intro here:
 
 Run the following commands from your terminal:
 
-1 `git clone https://github.com/sakshieng/GeoRescue-Disaster-Relief` to clone this repository              <br/>
-2 'cd frontend; npm i; npm start dev;` to start the frontend` <br/>               
-3 `cd backend; pip install -r requirements.txt` to install backend requirements <br/>                          
+1 `git clone https://github.com/sakshieng/GeoRescue-Disaster-Relief` to clone this repository         
+<br/>
+2 `cd frontend; npm i; npm start dev;` to start the frontend <br/>
+<br/>
+3 `cd backend; pip install -r requirements.txt` to install backend requirements <br/>
+<br/>
 4 `uvicorn main:app --host 127.0.0.1 --port 8000` to start the application <br/>
+<br/>
 
 
 ## Screenshots
